@@ -1,0 +1,19 @@
+p{
+  text-align: center;
+  color:red;
+}
+h1{
+  text-align: center;
+  color:silver;
+  font-family: 'Merienda', cursive;
+}
+h2{
+  text-align: center;
+  color:black;
+  font-family: 'Cookie', cursive;
+}
+body{
+    background-image: url("../img/fondos-de-pantalla-gratis-para-pc.jpg");
+    background-repeat: no-repeat;
+    background-size: 180% 180%;
+  }

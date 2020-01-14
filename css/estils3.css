@@ -1,0 +1,14 @@
+p{
+  text-align: center;
+  color:aqua;
+}
+h1{
+  text-align: center;
+  color:blue;
+  font-family: 'Patrick Hand', cursive;
+}
+body{
+    background-image: url("../img/thumb2-4k-blade-runner-2049-2017-movie-art-thriller.jpg.png");
+    background-repeat: no-repeat;
+    background-size: 140% 140%;
+  }

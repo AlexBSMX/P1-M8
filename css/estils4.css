@@ -1,0 +1,14 @@
+p{
+  text-align: center;
+  color:olive;
+}
+h1{
+  text-align: center;
+  color:silver;
+  font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    background-image: url("../img/844633.jpg");
+    background-repeat: no-repeat;
+    background-size: 120% 120%;
+  }

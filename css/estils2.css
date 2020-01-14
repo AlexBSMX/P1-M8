@@ -1,0 +1,14 @@
+p{
+  text-align: center;
+  color:teal;
+}
+h1{
+  text-align: center;
+  color:silver;
+  font-family: 'Anton', sans-serif;
+}
+body{
+    background-image: url("../img/391912.jpg");
+    background-repeat: no-repeat;
+    background-size: 140% 140%;
+  }

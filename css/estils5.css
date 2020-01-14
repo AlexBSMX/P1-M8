@@ -1,0 +1,14 @@
+p{
+  text-align: center;
+  color:teal;
+}
+h1{
+  text-align: center;
+  color:silver;
+  font-family: 'Noto Serif TC', serif;
+}
+body{
+    background-image: url("../img/7381987d726548692075b72287f14703.jpg");
+    background-repeat: no-repeat;
+    background-size: 105% 110%;
+  }
